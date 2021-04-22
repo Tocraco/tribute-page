@@ -1,0 +1,53 @@
+#main-container {
+    background-color: #EEEEEE;
+  }
+  #img-div {
+    background-color: #FFFFFF;
+  }
+  header > h1 {
+    text-align: center;
+    padding-top: 40px;
+  }
+  header > p {
+    text-align: center;
+    font-size: 18px;
+  }
+  #img-div {
+    position: relative;
+  }
+  #image {
+    display: block;
+    margin: auto;
+    max-width: 80%;
+  }
+  #img-caption {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+  }
+  #tribute-info, #tribute-quote {
+    margin: auto;
+    width: 37%;
+  }
+  
+  #tribute-info-heading {
+    text-align: center;
+  }
+  #tribute-info-timeline > li {
+    padding-bottom: 12px;
+    font-size:18px;
+  }
+  #date {
+    font-weight: bold;
+  }
+  #tribute-quote {
+    font-style: italic;
+    font-size:18px;
+  }
+  #tribute-link-container {
+    text-align: center;
+    margin-top: 15px;
+    padding-bottom: 20px;
+    font-size: 18px;
+  }
